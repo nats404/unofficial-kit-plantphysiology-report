@@ -8,7 +8,8 @@
   email: "uxxxx@student.kit.edu",
   year: "WS25/26",
   group: "Dienstagsgruppe 2",
-  bibliography: bibliography("refs.bib"),
+  //Immer Name der Datei mit deinen Quellen angeben! Ein gutes Tool zum Quellen sammeln ist Zotero
+  bibliography: bibliography("My Library.bib"),
   acronyms: (
     "cds": "codierende Sequenz",
     "Abkürzung": "Definition"
