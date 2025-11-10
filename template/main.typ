@@ -1,49 +1,33 @@
 #import "template.typ": *
 
 #show: pflanzenphys-protokoll.with(
-  title: [Versuch X: \ Name des Versuchs],
+  title: [Versuch: \ Bioinformatik],
   author: "Vorname Nachname",
 //Matrikelnummer:
-  ID: "XXXXXXX",
+  ID: "5674698",
   email: "uxxxx@student.kit.edu",
   year: "WS25/26",
   group: "Dienstagsgruppe 2",
   bibliography: bibliography("refs.bib"),
   acronyms: (
-    "TMS": "Traceability Management System",
-    "RE": "Regular Expression",
-    "CSV": "Comma-Separated Values",
-    "JSON": "JavaScript Object Notation",
-    "XML": "eXtensible Markup Language",
-    "HTML": "HyperText Markup Language",
-    "CSS": "Cascading Style Sheets",
-    "JS": "JavaScript",
-    "SQL": "Structured Query Language",
-    "DB": "Database",
-    "UI": "User Interface",
-    "UX": "User Experience",
-    "API": "Application Programming Interface",
-    "HTTP": "Hypertext Transfer Protocol",
-    "HTTPS": "Hypertext Transfer Protocol Secure",
-    "TCP": "Transmission Control Protocol",
-    "IP": "Internet Protocol",
-    "DNS": "Domain Name System",
-    "SMTP": "Simple Mail Transfer Protocol",
-    "POP3": "Post Office Protocol version 3",
-    "IMAP": "Internet Message Access Protocol",
+    "cds": "codierende Sequenz",
+    "Abkürzung": "Definition"
   ),
 )
 // HIER DER INHALT DES PROTOKOLLS
 = Einleitung
 
-#lorem(20)
+Das Template wurde erstellt für die Anforderungen aus dem Wintersemester 2025/2026!
 
-using References @brown2022algorithms, @anderson2023blockchain, try add figure and use it @abb:1, as log as table: @tb:1.
 
+Hier kannst du einfach mit dem Schreiben beginnen.
+
+Willst du eine Quelle angeben, geht das ganz einfach so @reference.
+Um auf Abbildungen oder Tabellen zu verweisen, schreibst du das so @abb:1, @tb:1. Denk nur daran, deiner Abbildung oder Tabelle auch den selben Namen am Ende zu geben, wie hier:
 
 #figure(
   image("Abbildungen/pic.jpg"),
-  caption: flex-caption[Hier sieht man alles mögliche]
+  caption: flex-caption[Beispieltabelle]
 )<abb:1>
 
 #figure(
@@ -53,14 +37,29 @@ using References @brown2022algorithms, @anderson2023blockchain, try add figure a
     [*Heading 1.2*],[2],[3],[4],[5],
     [*Heading 1.3*],[2.1],[3.1],[4.1],[5.1],
   ),
-  caption: flex-caption[Example Table],
+  caption: flex-caption[Beispieltabelle],
 )<tb:1>
 
-= Zielsetzung
-Text:
+Eine sehr umfangreiche Anleitung gibt es von Typst selbst (https://typst.app/docs/). Sie ist allerdings nur auf Englisch. 
 
-#lorem(200)
+Um Formeln zu schreiben, brauchst du etwas Verständnis von LaTeX. Du kannst aber auch immer ganz einfach im Internet nach deinem Ausdruck + LaTeX suchen. Eine Formel wird immer zwischen zwei $-Zeichen geschrieben.
+
+Beispiel: $C_1*V_1=C_2*V_2$
+
+Vergiss am Ende nicht, die Eidesstattlische Erklärung zu unterschreiben und das Dokument als pdf mit dem richtigen Dateinamen (BA-04_Versuchsteil_u-Kürzel_Nachame, Vorname) zu speichern.
+
+= Zielsetzung
+
+
 = Material und Methoden
+
+
 = Ergebnisse
+
+
 = Diskussion
+
+
 = Zusammenfassung
+
+
