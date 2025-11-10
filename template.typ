@@ -1,5 +1,5 @@
 #let in-outline = state("in-outline", false)
-#let flex-caption(long) = context if in-outline.get() [ ] else [ #long ]
+#let flex-caption(short, long) = context if in-outline.get() [ #short ] else [ #short #linebreak() #text(weight: "regular", long) ]
 
 
 #let pflanzenphys-protokoll(
