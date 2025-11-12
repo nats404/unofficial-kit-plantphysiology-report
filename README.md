@@ -4,7 +4,7 @@ A typst template that meets all the requirements for the report.
 
 You can use this template in the Typst web app by selecting "Start from template" on the dashboard and searching for unofficial-kit-plantphysiology-report.
 If you're using the CLI, use this command:
-typst init @preview/unofficial-kit-plantphysiology-report
+typst init @preview/unofficial-kit-plantphysiology-report/0.1.0
 
 # Requirements
 
