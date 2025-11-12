@@ -27,6 +27,7 @@ You can just fill them out once you're starting from the template.
 
 # Example
 
+```
 #import "template.typ": *
 
 #show: pflanzenphys-protokoll.with(
@@ -52,3 +53,4 @@ Hier Text...
 = Ergebnisse
 = Diskussion
 = Zusammenfassung
+```
