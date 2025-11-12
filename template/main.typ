@@ -1,3 +1,5 @@
+// Import the package
+// #import "@preview/unofficial-kit-plantphysiology-report:0.1.0": *
 #import "template.typ": *
 
 #show: pflanzenphys-protokoll.with(
