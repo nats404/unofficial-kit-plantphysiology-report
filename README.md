@@ -1,6 +1,16 @@
 # Unofficial KIT typst template for the B.Sc. Biology module "Pflanzenphysiologisches Praktikum"
 
+Typst: typst.app
+
+
 A typst template that meets all the requirements for the report.
+
+# Usage
+
+1. Dowload the files (and folder) in the "template" folder.
+2. Start a new typst project. If there are any files inside, delete them.
+3. Import the downloaded files into the new typst project.
+4. Start writing in the "main.typ"-file.
 
 # Requirements
 
