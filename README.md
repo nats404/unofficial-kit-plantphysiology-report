@@ -2,8 +2,13 @@
 
 Typst: typst.app
 
+If you have any questions or issues, feel free to contact me! 
+discord: i.love.cats.and.dragons
+E-mail: dragonnats@tutamail.com
 
-A typst template that meets all the requirements for the report.
+# What is this?
+
+A typst template that meets all the requirements for the report for the "Pflanzenphysiologisches Praktikum".
 
 # Usage
 
