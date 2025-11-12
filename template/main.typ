@@ -1,6 +1,7 @@
 //Import the template
 #import "template.typ": *
 
+// Bitte ausfüllen:
 #show: pflanzenphys-protokoll.with(
   title: [Versuch: \ Bioinformatik],
   author: "Vorname Nachname",
