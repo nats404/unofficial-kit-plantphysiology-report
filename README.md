@@ -4,7 +4,7 @@
 
 If you have any questions or issues, feel free to contact me! 
 
-discord: i.love.cats.and.dragons
+discord: @i.love.cats.and.dragons
 
 E-mail: dragonnats@tutamail.com
 
