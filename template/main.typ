@@ -59,6 +59,10 @@ Beispiel: $C_1*V_1=C_2*V_2$
 
 \
 
+Für alles was Chemie braucht, könnte dieses package (https://typst.app/universe/package/chem-par/) hilfreich sein.
+
+\
+
 *Vergiss am Ende nicht, die Eidesstattlische Erklärung zu unterschreiben und das Dokument als pdf mit dem richtigen Dateinamen (BA-04_Versuchsteil_u-Kürzel_Nachame, Vorname) zu speichern.*
 
 = Zielsetzung
